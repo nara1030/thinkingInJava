@@ -45,7 +45,7 @@ Thinking In Java 4th Edition
 ### CONTENTS
 목차를 보면 책의 흐름을 쉽게 기억할 수 있기에 아래 기록한다. 링크를 클릭하면 상세 요약을 정리했다.
 
-* 1장: 객체란?
+* [1장: 객체란?](https://github.com/nara1030/thinkingInJava/blob/master/docs/thinkingInJava_ch1.md)
 * 2장: 모든 것이 객체다
 * 3장: 연산자
 * 4장: 프로그램 실행 제어

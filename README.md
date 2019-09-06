@@ -1,4 +1,4 @@
-Thinking In Java 4th Edition
+Thinking In Java 4th Edition(2007)
 =========
 워낙 좋은 책으로 평이 좋아 공부 후 정리하기 위한 공간을 만든다.  
 참고: [저자 블로그](https://www.bruceeckel.com/)

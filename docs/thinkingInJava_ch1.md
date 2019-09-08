@@ -99,7 +99,7 @@ Grady Booch는 훨씬 더 간결하게 객체를 기술하고 있다.
 	* 우리가 객체에게 할 수 있는 요청을 그 객체의 인터페이스(interface)라고 하며, 그것을 결정하는 것이 타입
 		* 예
 			* [클래스 다이어그램](#클래스-다이어그램)  
-				<img src="./img/light_bulb_uml.png" width="350" height="200"></br>
+				<img src="../img/light_bulb_uml.png" width="350" height="200"></br>
 			* 코드  
 				```java
 				Light it = new Light();

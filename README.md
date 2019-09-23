@@ -46,15 +46,15 @@ Thinking In Java 4th Edition(2007)
 ### CONTENTS
 목차를 보면 책의 흐름을 쉽게 기억할 수 있기에 아래 기록한다. 링크를 클릭하면 상세 요약을 정리했다.
 
-* [1장: 객체란?](https://github.com/nara1030/thinkingInJava/blob/master/docs/thinkingInJava_ch1.md)
-* 2장: 모든 것이 객체다
-* 3장: 연산자
-* 4장: 프로그램 실행 제어
-* 5장: 초기화와 클린업
-* 6장: 접근 제어
-* 7장: 클래스 재사용하기
-* 8장: 다형성
-* 9장: 인터페이스
+* [1장: 객체란?](./docs/thinkingInJava_ch1.md)
+* [2장: 모든 것이 객체다](./docs/thinkingInJava_ch2.md)
+* [3장: 연산자](./docs/thinkingInJava_ch3.md)
+* [4장: 프로그램 실행 제어](./docs/thinkingInJava_ch4.md)
+* [5장: 초기화와 클린업](./docs/thinkingInJava_ch5.md)
+* [6장: 접근 제어](./docs/thinkingInJava_ch6.md)
+* [7장: 클래스 재사용하기](./docs/thinkingInJava_ch7.md)
+* [8장: 다형성](./docs/thinkingInJava_ch8.md)
+* [9장: 인터페이스](./docs/thinkingInJava_ch9.md)
 * 10장: 내부 클래스
 * 11장: 객체 저장하기
 * 12장: 예외를 이용한 에러 처리

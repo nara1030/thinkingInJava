@@ -55,7 +55,7 @@ Thinking In Java 4th Edition(2007)
 * [7장: 클래스 재사용하기](./docs/thinkingInJava_ch7.md)
 * [8장: 다형성](./docs/thinkingInJava_ch8.md)
 * [9장: 인터페이스](./docs/thinkingInJava_ch9.md)
-* 10장: 내부 클래스
+* [10장: 내부 클래스](./docs/thinkingInJava_ch10.md)
 * 11장: 객체 저장하기
 * 12장: 예외를 이용한 에러 처리
 * 13장: 문자열

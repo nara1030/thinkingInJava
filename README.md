@@ -32,7 +32,7 @@ Thinking In Java 4th Edition(2007)
 * 자바가 어떻게 객체지향을 구현하는가 설명(자바 언어의 매커니즘)
 * 자바 기본서(기술의 나열)
 
-보통은 기본서가 대부분이었는데, 최근 [오브젝트](https://github.com/nara1030/portfolio/blob/master/docs/book/object.md)라는 책을 통해 설계 관점의 책을 접하게 되고 비슷한 시기에 자바 언어를 고찰하고 있는 이 책을 읽게 되어 다행이라는 생각이다.
+보통은 기본서가 대부분이었는데, 최근 [오브젝트](https://github.com/nara1030/TIL/blob/master/docs/book/object/README.md)라는 책을 통해 설계 관점의 책을 접하게 되고 비슷한 시기에 자바 언어를 고찰하고 있는 이 책을 읽게 되어 다행이라는 생각이다.
 
 ##### [목차로 이동](#목차)
 
